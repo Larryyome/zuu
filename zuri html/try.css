@@ -1,0 +1,68 @@
+.td{
+    width: 25%;
+    float: left;
+    height: 50vh;
+    padding: 20px;
+
+}
+.bod{
+    margin: 190px;
+    margin-left: 300px;
+}
+.bu1{
+    padding-top: 10px;
+    background-color: white;
+    color:orange ;
+    border-radius: 25px;
+    padding: 11px;
+    width: 100px;
+  
+}
+.ch{
+    padding-top: 0px;
+}
+.se{
+    padding-top: 50px;
+}
+.bu2 {
+    padding-top: 40px;
+    background-color: white;
+    color: rgb(81, 156, 156);
+    border-radius: 25px;
+    padding: 11px;
+    width: 100px;
+    
+}
+
+.ta {
+    padding-top: 0px;
+}
+
+.su {
+    padding-top: 50px;
+}
+.bu3 {
+    padding-top: 20px;
+    background-color: white;
+    color: rgb(30, 58, 58);
+    border-radius: 25px;
+    padding: 11px;
+    width: 100px;
+}
+
+.sr {
+    padding-top: 0px;
+}
+
+.lu {
+    padding-top: 50px;
+}
+.img2{
+    width: 40px;
+}
+.img1{
+    width: 40px;
+}
+.img3{
+    width: 40px;
+}
